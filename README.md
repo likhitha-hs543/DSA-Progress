@@ -27,17 +27,20 @@ I solve problems daily and log solutions, learnings, and patterns to build consi
 
 ## 📂 Repository Structure
 
+```
 DSA-Progress/
 │
 ├── Day-01/
-│ ├── Second Largest Element in Array.java
-│ └── README.md
+│   ├── Second_Largest_Element_in_Array.java
+│   └── README.md
 │
 ├── Day-02/
-│ ├── Move All Zeros to End.java
-│ └── README.md
+│   ├── Move_All_Zeros_to_End.java
+│   └── README.md
 │
 └── README.md
+```
+
 
 Each `Day-XX` folder contains:
 - Problem solution(s)
