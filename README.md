@@ -31,10 +31,10 @@ I solve problems daily and log solutions, learnings, and patterns to build consi
 DSA-Progress/
 │
 ├── Day-01/
-│   ├── Second_Largest_Element_in_Array.java
+│   └── Second_Largest_Element_in_Array.java
 │   
 ├── Day-02/
-│   ├── Move_All_Zeros_to_End.java
+│   └── Move_All_Zeros_to_End.java
 │   
 └── README.md
 ```
