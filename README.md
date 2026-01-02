@@ -19,7 +19,7 @@ I solve problems daily and log solutions, learnings, and patterns to build consi
 
 | Day |       Topic       |           Problem(s)                    
 |-----|-------------------|-----------------------------------------
-|  1  | Arrays            | Second Largest Element in Array         
+|  1  | Arrays            | Kth Largest Element in Array         
  
 > This table is updated daily.
 
@@ -32,12 +32,10 @@ DSA-Progress/
 │
 ├── Day-01/
 │   ├── Second_Largest_Element_in_Array.java
-│   └── README.md
-│
+│   
 ├── Day-02/
 │   ├── Move_All_Zeros_to_End.java
-│   └── README.md
-│
+│   
 └── README.md
 ```
 
