@@ -17,9 +17,11 @@ I solve problems daily and log solutions, learnings, and patterns to build consi
 
 ## 📅 Progress Tracker
 
-| Day |       Topic       |           Problem(s)                    
-|-----|-------------------|-----------------------------------------
-|  1  | Arrays            | Kth Largest Element in Array         
+| Day |       Topic       |           Problem(s)                    |    Approach
+|-----|-------------------|-----------------------------------------|---------------------------
+|  1  | Arrays            | Kth Largest Element in Array            | Min Heap
+|  2  | Arrays            | Move Zeroes                             | Two Pointers
+|  3  | Arrays            | Majority Element                        | Boyer–Moore Voting Algorithm
  
 > This table is updated daily.
 
@@ -31,10 +33,10 @@ I solve problems daily and log solutions, learnings, and patterns to build consi
 DSA-Progress/
 │
 ├── Day-01/
-│   └── Second_Largest_Element_in_Array.java
+│   └── Kth_Largest_Element_in_Array.java
 │   
 ├── Day-02/
-│   └── Move_All_Zeros_to_End.java
+│   └── Move_Zeroes.java
 │   
 └── README.md
 ```
