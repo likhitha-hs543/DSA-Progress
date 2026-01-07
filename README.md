@@ -17,12 +17,15 @@ I solve problems daily and log solutions, learnings, and patterns to build consi
 
 ## 📅 Progress Tracker
 
-| Day |       Topic       |           Problem(s)                    |    Approach
-|-----|-------------------|-----------------------------------------|---------------------------
-|  1  | Arrays            | Kth Largest Element in Array            | Min Heap
-|  2  | Arrays            | Move Zeroes                             | Two Pointers
-|  3  | Arrays            | Majority Element                        | Boyer–Moore Voting Algorithm
- 
+| Day |       Topic       |           Problem(s)                    |    Approach                   | Time Comp. | Space Comp. 
+|-----|-------------------|-----------------------------------------|-------------------------------|------------| 
+|  1  | Arrays            | Kth Largest Element in Array            | Min Heap                      |            |
+|  2  | Arrays            | Move Zeroes                             | Two Pointers                  |            |
+|  3  | Arrays            | Majority Element                        | Boyer–Moore Voting Algorithm  |            |
+|  4  |             |           | 
+|  5  |             |            |
+|  6  | Arrays            | Contains Duplicate                      | Hashing                       |     O(n)   |   O(n)
+
 > This table is updated daily.
 
 ---
